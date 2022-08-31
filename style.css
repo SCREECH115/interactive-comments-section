@@ -202,11 +202,11 @@ body {
 }
 
 footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: fixed;
+  background: #f5f5f5;
+  border-top: 1px solid #ddd;
+  left: 0;
   bottom: 0;
-  left: 50vh;
-  font-size: 6px;
+  width: 100%;
+  text-align: center;
+  position: fixed;
 }
